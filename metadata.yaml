@@ -1,0 +1,40 @@
+_repo: The-Story-teller_23735
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Young, Florence Liley
+    alias: Liley, F. (Florence)
+    birthdate: 1872
+    deathdate: 1974
+    gutenberg_agent_id: '26003'
+    url: http://www.gutenberg.org/2009/agents/26003
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lindsay, Maud
+    birthdate: 1874
+    deathdate: 1941
+    gutenberg_agent_id: '6378'
+    url: http://www.gutenberg.org/2009/agents/6378
+description: ''
+gutenberg_issued: '2007-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23735'
+  lccn: '15025349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, English'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: The two brothers -- The jar of rosemary -- The promise -- The plate
+  of pancakes -- Little Maid Hildegarde -- The apple dumpling -- The king's servant
+  -- The great white bear -- The song that traveled -- The quest for the nightingale
+  -- The magic flower -- The lions in the way.
+title: The Story-teller
+url: http://www.gutenberg.org/ebooks/23735
